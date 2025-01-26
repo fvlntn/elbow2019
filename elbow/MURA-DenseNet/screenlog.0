@@ -1,0 +1,4 @@
+bas: /home/frvalent/.bashrc: line 125: syntax error near unexpected token `dir'
+bash: /home/frvalent/.bashrc: line 125: `function rmkdir(dir) {'
+[01;32mfrvalent@smithers[00m:[01;34m~/dev/MURA-DenseNet[00m$ exit
+exit
